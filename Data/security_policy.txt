@@ -1,0 +1,13 @@
+NovaTech Solutions Security Policy
+
+== Data Privacy ==
+Customer data is strictly confidential. Employees must not share, download, or export customer data to personal devices or unauthorized third-party platforms.
+
+== Office Network Policy ==
+The company Wi-Fi is monitored for security purposes. Connecting personal devices (phones, tablets, laptops) to the internal corporate network (NovaTech-Corp) is prohibited. Personal devices should use the 'NovaTech-Guest' network.
+
+== Password Policy ==
+Passwords must be at least 14 characters long, containing a mix of uppercase, lowercase, numbers, and special characters. Passwords must be changed every 90 days, and you cannot reuse your last 5 passwords.
+
+== Incident Response ==
+If you suspect a security breach, phishing attempt, or lost device, immediately report it to security@novatech.com. Do not attempt to investigate the breach yourself. Disconnect the affected device from the network immediately.

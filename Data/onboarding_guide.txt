@@ -1,0 +1,13 @@
+NovaTech Solutions Employee Onboarding Guide
+
+== First Day Setup ==
+Welcome to NovaTech! On your first day, please report to the IT Helpdesk to collect your company laptop and welcome kit. Your default login credentials have been sent to your personal email address.
+
+== Access and Credentials ==
+You must reset your initial password upon first login. Enable Multi-Factor Authentication (MFA) immediately via the Microsoft Authenticator app to access company communication tools like Slack and Outlook.
+
+== Office Facilities ==
+The cafeteria is located on the 3rd floor, serving complimentary breakfast from 8:00 AM to 9:30 AM. Parking is available in the basement; please register your vehicle plate at the front desk.
+
+== First Week Expectations ==
+During your first week, you are expected to complete all mandatory security and compliance training modules. You will also have a 1-on-1 introductory meeting with your engineering manager and assigned onboarding buddy.

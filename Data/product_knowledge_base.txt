@@ -1,0 +1,16 @@
+Cloud Desk Pro - Product Knowledge Base
+
+== What is Cloud Desk Pro ==
+Cloud Desk Pro is a cloud-based helpdesk software designed to help customer support teams manage tickets, automate workflows, and provide seamless customer service.
+
+== Account Setup ==
+To set up your account, go to clouddeskpro.com, click on 'Sign Up', and verify your email. Once logged in, you can configure your support email address and invite team members.
+
+== How to cancel subscription ==
+To cancel your subscription, go to Settings > Billing > Subscriptions and click Cancel. Your account will remain active until the end of your current billing cycle.
+
+== Refund Policy ==
+Cloud Desk Pro offers a 14-day money-back guarantee for all new annual subscriptions. Monthly subscriptions are non-refundable. To request a refund, please contact support@clouddeskpro.com within the 14-day window.
+
+== Integrations ==
+Cloud Desk Pro natively integrates with Slack, Microsoft Teams, and Salesforce. API keys for custom integrations can be generated from the Developer Hub section in the dashboard.

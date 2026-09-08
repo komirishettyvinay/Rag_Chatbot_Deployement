@@ -1,0 +1,16 @@
+NovaTech Solutions Engineering Standards
+
+== Git Workflow ==
+All developers must branch off from the 'develop' branch. Feature branches should be named using the convention 'feature/ticket-number-description'. Direct commits to 'main' or 'develop' are strictly prohibited.
+
+== Code Reviews ==
+Every pull request requires approval from at least two senior engineers before it can be merged. Code reviews should focus on performance, security, and adherence to our internal coding standards.
+
+== Coding Standards ==
+All Python code must follow PEP 8 standards. Code should be properly formatted using 'Black' and linted with 'Flake8'. Unit tests must cover at least 80% of the newly added logic.
+
+== API Design ==
+RESTful APIs should use semantic versioning (e.g., /v1/users). Responses must always be in JSON format. Always include standard HTTP status codes and detailed error messages for failed requests.
+
+== Database Practices ==
+Direct queries to the production database are not allowed. All database schema changes must go through migration scripts. Ensure indexes are applied on columns that are frequently used in search queries to optimize performance.
